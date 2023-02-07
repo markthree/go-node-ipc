@@ -1,0 +1,11 @@
+{
+	"name": "go-node-ipc",
+	"private": true,
+	"scripts": {},
+	"author": {
+		"name": "markthree",
+		"email": "1801982702@qq.com",
+		"url": "https://github.com/markthree"
+	},
+	"license": "MIT"
+}
