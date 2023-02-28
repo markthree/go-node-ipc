@@ -7,7 +7,9 @@ import (
 )
 
 func main() {
-	reader := bufio.NewReader(os.Stdin)
-	text, _ := reader.ReadString('\n') // 输入
-	fmt.Print(text)                    // 输出
+	for {
+		reader := bufio.NewReader(os.Stdin)
+		text, _ := reader.ReadString('\n') // 输入
+		fmt.Printf("go  %v", text)         // 输出
+	}
 }
