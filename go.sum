@@ -1,0 +1,4 @@
+github.com/jgranstrom/go-simplejson v0.0.0-20130401154024-1c4a2a70d0b5 h1:iI79wMCvcQbJj8i+47eGHg3Nt5zbZKMocOsx4EDkJhg=
+github.com/jgranstrom/go-simplejson v0.0.0-20130401154024-1c4a2a70d0b5/go.mod h1:3OJBwwdhp/IjI2pZFkT9mGXYRAzXIv7cZmcRdO6+zqw=
+github.com/jgranstrom/gonodepkg v0.0.0-20151201121031-af29c3d9abcd h1:ULJKCoyFHZrWWOpfoP7yd83R4rlxSTBXtq+IczlAn2A=
+github.com/jgranstrom/gonodepkg v0.0.0-20151201121031-af29c3d9abcd/go.mod h1:D7fEG00C50Q+2DK7oQ4VyK5RvaXZKIK3juRr+vC9rlY=

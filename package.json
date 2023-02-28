@@ -1,11 +1,18 @@
 {
-	"name": "go-node-ipc",
-	"private": true,
-	"scripts": {},
-	"author": {
-		"name": "markthree",
-		"email": "1801982702@qq.com",
-		"url": "https://github.com/markthree"
-	},
-	"license": "MIT"
+  "name": "go-node-ipc",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "start": "node main.js",
+    "build:go": "go build main.go"
+  },
+  "author": {
+    "name": "markthree",
+    "email": "1801982702@qq.com",
+    "url": "https://github.com/markthree"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "execa": "^7.0.0"
+  }
 }
