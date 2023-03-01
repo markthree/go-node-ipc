@@ -9,7 +9,7 @@ import (
 func main() {
 	for {
 		reader := bufio.NewReader(os.Stdin)
-		text, _ := reader.ReadString('\n') // 输入
-		fmt.Printf("go  %v", text)         // 输出
+		text, _ := reader.ReadString(',') // 输入
+		fmt.Printf("go  %v\n", text)      // 输出
 	}
 }
